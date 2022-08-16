@@ -26,7 +26,7 @@ class SegmentTree {
     }
     
     public void updateST(int index, int low, int high, int i, int val){
-        if(index == i){
+        if(low == high){
             tree[index] = val; return;
         }
         int mid = (low+high)/2;
