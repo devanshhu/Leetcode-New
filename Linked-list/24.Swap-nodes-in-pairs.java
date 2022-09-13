@@ -1,3 +1,5 @@
+// Check the below explanation:
+// https://leetcode.com/problems/swap-nodes-in-pairs/discuss/1775033/SWAPPING-NODES-(Not-just-the-values)-oror-Visual-Explanation-oror-Well-Explained-oror-C%2B%2B
 /**
  * Definition for singly-linked list.
  * public class ListNode {
